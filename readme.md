@@ -1,6 +1,7 @@
 # WordPress Full Stack Web Developer and AI Tools Specialist Website Development
 
 ## 1. Web development
+![image](https://github.com/user-attachments/assets/3f0d91ff-c972-402d-b096-e729a6ef8897)
 
 **Please check this repo**
 I used a package manager to include Sass styles in the project and minify the code. If you need to modify anything, please install Node.js or NVM on your PC and run the following command:
