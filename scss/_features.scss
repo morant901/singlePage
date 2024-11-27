@@ -1,0 +1,24 @@
+/* Features Section */
+.features {
+  background-color: #f4f4f4;
+  display: flex;
+  gap: 10px;
+  justify-content: space-around;
+  padding: 50px;
+  flex-wrap: wrap;
+  @media screen and (min-width: 48rem) {
+    flex-wrap: nowrap;
+  }
+  &_item {
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    margin-bottom: 2rem;
+    @media screen and (min-width: 48rem) {
+      max-width: 33%;
+    }
+  }
+  &_title {
+    margin-bottom: 0.3125rem;
+  }
+}
