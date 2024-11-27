@@ -2,6 +2,8 @@
 
 ## 1. Web development
 ![image](https://github.com/user-attachments/assets/3f0d91ff-c972-402d-b096-e729a6ef8897)
+![image](https://github.com/user-attachments/assets/9bd3da3c-1ef5-4b5c-822d-d143d56ca90a)
+
 
 **Please check this repo**
 I used a package manager to include Sass styles in the project and minify the code. If you need to modify anything, please install Node.js or NVM on your PC and run the following command:
